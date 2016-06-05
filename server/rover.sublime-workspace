@@ -1,0 +1,505 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lin",
+				"LineLeftResp	 Ɩ"
+			],
+			[
+				"re",
+				"readLineSensors	error ƒ"
+			],
+			[
+				"li",
+				"LineSensor	LineSensor ν"
+			],
+			[
+				"Create",
+				"CreateLineSensor	sensor ƒ"
+			],
+			[
+				"Line",
+				"LineSensor	struct ʈ"
+			],
+			[
+				"Linese",
+				"LineLeftResp	 Ɩ"
+			],
+			[
+				"linese",
+				"LineSensorReq	 Ɩ"
+			],
+			[
+				"line",
+				"LineResp	 Ɩ"
+			],
+			[
+				"p",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"RoverL",
+				"RoverLine	 Ɩ"
+			],
+			[
+				"b",
+				"Beep	error ƒ"
+			],
+			[
+				"lig",
+				"LightOn	error ƒ"
+			],
+			[
+				"mi",
+				"Millisecond	 Ɩ"
+			],
+			[
+				"cl",
+				"CloseHandle	err error ƒ"
+			],
+			[
+				"c",
+				"Connected	bool ƒ"
+			],
+			[
+				"s",
+				"Second	 Ɩ"
+			],
+			[
+				"d",
+				"Duration	int64 ʈ"
+			],
+			[
+				"w",
+				"WriteTotalTimeoutMultiplier	uint32 ν"
+			],
+			[
+				"r",
+				"Run	error ƒ"
+			],
+			[
+				"cre",
+				"CreateWheels	Wheels ƒ"
+			],
+			[
+				"tu",
+				"TurnLeft	 Ɩ"
+			],
+			[
+				"Move",
+				"MoveStepResp	 Ɩ"
+			],
+			[
+				"Mov",
+				"MoveTurnResp	 Ɩ"
+			],
+			[
+				"Bu",
+				"BuzzerPlayReq	 Ɩ"
+			],
+			[
+				"bu",
+				"BuzzerDone	 Ɩ"
+			],
+			[
+				"Rover",
+				"RoverBuzzer	 Ɩ"
+			],
+			[
+				"f",
+				"freq	byte ν"
+			],
+			[
+				"L",
+				"LightOn	error ƒ"
+			],
+			[
+				"MoveS",
+				"MoveStop	 Ɩ"
+			],
+			[
+				"wri",
+				"writeSysex	err error ƒ"
+			],
+			[
+				"Sonar",
+				"SonarRangeReq	 Ɩ"
+			],
+			[
+				"o",
+				"On	err error ƒ"
+			],
+			[
+				"turn",
+				"TurnResp	 Ɩ"
+			],
+			[
+				"T",
+				"TurnRight	 Ɩ"
+			],
+			[
+				"Son",
+				"SonarTurn	 Ɩ"
+			],
+			[
+				"fp",
+				"Fprintf	n int, err error ƒ"
+			],
+			[
+				"g",
+				"GetID	string ƒ"
+			],
+			[
+				"pr",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"m",
+				"Millisecond	 Ɩ"
+			],
+			[
+				"wo",
+				"WorkResponseQueue	chan Work ν"
+			],
+			[
+				"val",
+				"valuestr	string ν"
+			],
+			[
+				"se",
+				"SetPinMode	error ƒ"
+			],
+			[
+				"v",
+				"ValueOf	reflect.Value ƒ"
+			],
+			[
+				"P",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"wr",
+				"writeSysex	err error ƒ"
+			],
+			[
+				"h",
+				"HandleFunc	*mux.Route ƒ"
+			],
+			[
+				"Handle",
+				"HandleDigitalWrite	 ƒ"
+			],
+			[
+				"Ha",
+				"HandleFunc	*mux.Route ƒ"
+			],
+			[
+				"fpri",
+				"Fprintln	n int, err error ƒ"
+			],
+			[
+				"fpr",
+				"Fprintln	n int, err error ƒ"
+			],
+			[
+				"print",
+				"Println	n int, err error ƒ"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/GoSublime/GoSublime.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/GoSublime/GoSublime.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/GoSublime/GoSublime.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"repl",
+				"SublimeREPL: Shell"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 245.0,
+		"history":
+		[
+			"go build . errors",
+			"sh go build .",
+			"go",
+			"go run hello",
+			"go build .",
+			"pwd",
+			"go build",
+			"go build .",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Personal/Development/Go",
+		"/D/Personal/Development/Go/src",
+		"/D/Personal/Development/Go/src/rajkg",
+		"/D/Personal/Development/Go/src/rajkg/roverduino",
+		"/D/Personal/Development/Go/src/rajkg/roverserv",
+		"/D/Personal/Development/Arduino",
+		"/D/Personal/Development/Arduino/Rover"
+	],
+	"file_history":
+	[
+		"/D/Personal/Development/Go/src/rajkg/roverduino/roverduino.go",
+		"/C/Users/rajkg/AppData/Roaming/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+		"/D/Personal/Development/Go/src/rajkg/roverduino/rover.go",
+		"/D/Personal/Development/Go/src/rajkg/roverduino/wheels.go",
+		"/D/Personal/Development/Go/src/rajkg/roverduino/sonar.go",
+		"/D/Personal/Development/Go/src/rajkg/roverduino/buzzer.go",
+		"/D/Personal/Development/Go/src/rajkg/roverduino/work.go",
+		"/D/Personal/Development/Go/src/github.com/hybridgroup/gobot/platforms/firmata/client/client.go",
+		"/D/Personal/Development/Go/src/rajkg/roverduino/lineSensor.go",
+		"/D/Personal/Development/Arduino/Rover/rover.s2e",
+		"/D/Personal/Development/Go/src/rajkg/roverduino/lineSensor",
+		"/d/personal/development/go/src/rajkg/roverduino/r.wheels.speed",
+		"/D/Personal/Development/Go/src/rajkg/roverserv/server.go",
+		"/D/Personal/Development/Go/src/github.com/tarm/goserial/serial_windows.go",
+		"/D/Personal/Development/Go/src/rajkg/servrover/server.go",
+		"/D/Personal/Development/Go/src/rajkg/roverduino/server.go",
+		"/D/Personal/Development/Go/src/github.com/tarm/goserial/serial.go",
+		"/D/Personal/Development/Go/src/github.com/tarm/goserial/serial_posix.go",
+		"/D/Personal/Development/Go/src/github.com/tarm/goserial/serial_linux.go",
+		"/D/Personal/Development/Go/src/rajkg/hello/hello.go",
+		"/C/Users/rajkg/AppData/Roaming/Sublime Text 3/Packages/GoOracle/User.sublime-settings",
+		"/d/personal/development/go/src/rajkg/roverduino/:",
+		"/D/Personal/Development/Go/src/rajkg/rovertest/rovertest.go",
+		"/D/Personal/Development/Go/src/rajkg/firmata/firmata.go",
+		"/C/Users/rajkg/AppData/Roaming/Sublime Text 3/Packages/User/GoSublime.sublime-settings",
+		"/C/Users/rajkg/AppData/Roaming/Sublime Text 3/Packages/GoSublime/GoSublime.sublime-settings",
+		"/D/Personal/Development/Go/src/rajkg/firmata-test/firmata.go",
+		"/C/Users/rajkg/AppData/Roaming/Sublime Text 3/Packages/User/Glue.sublime-settings",
+		"/C/Users/rajkg/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/Personal/Scratch/test.go",
+		"/C/Users/rajkg/AppData/Roaming/Sublime Text 3/Packages/GoOracle/Default.sublime-settings",
+		"/C/Users/rajkg/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"RoverLineResponse",
+			"Buzzer",
+			"byte",
+			"p.f",
+			"fd",
+			"bz",
+			"Buzzer",
+			"strconv",
+			"port"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"LineSensor",
+			"int",
+			"wh",
+			"Wheels",
+			"comPort"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o://D:\\Personal\\Development\\Go\\src\\github.com\\hybridgroup\\gobot\\platforms\\firmata\\client":
+	{
+		"height": 270.0
+	},
+	"output.9o://D:\\Personal\\Development\\Go\\src\\rajkg\\firmata":
+	{
+		"height": 219.0
+	},
+	"output.9o://D:\\Personal\\Development\\Go\\src\\rajkg\\firmata-test":
+	{
+		"height": 307.0
+	},
+	"output.9o://D:\\Personal\\Development\\Go\\src\\rajkg\\hello":
+	{
+		"height": 285.0
+	},
+	"output.9o://D:\\Personal\\Development\\Go\\src\\rajkg\\roverduino":
+	{
+		"height": 194.0
+	},
+	"output.9o://D:\\Personal\\Development\\Go\\src\\rajkg\\roverserv":
+	{
+		"height": 221.0
+	},
+	"output.9o://D:\\Personal\\Development\\Go\\src\\rajkg\\rovertest":
+	{
+		"height": 222.0
+	},
+	"output.9o://D:\\Personal\\Development\\Go\\src\\rajkg\\servrover":
+	{
+		"height": 149.0
+	},
+	"output.GoSublime-main-output":
+	{
+		"height": 100.0
+	},
+	"output.GoSublime-output":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "rover.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 298.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
