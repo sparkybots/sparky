@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/hybridgroup/gobot"
+	"github.com/sparkybots/gobot"
 	"github.com/sparkybots/sparky/server/board"
 	"strconv"
 )

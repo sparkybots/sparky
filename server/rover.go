@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
+	"github.com/sparkybots/goserial"
 	"github.com/sparkybots/sparky/server/board"
-	"github.com/tarm/goserial"
 	"os"
 	"strconv"
 	"time"

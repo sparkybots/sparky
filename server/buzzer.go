@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/hybridgroup/gobot"
+	"github.com/sparkybots/gobot"
 	"github.com/sparkybots/sparky/server/board"
 	"strconv"
 )

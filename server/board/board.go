@@ -9,7 +9,7 @@ import (
 	"math"
 	"time"
 
-	"github.com/hybridgroup/gobot"
+	"github.com/sparkybots/gobot"
 )
 
 // Pin Modes
